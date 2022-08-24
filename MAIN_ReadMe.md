@@ -49,3 +49,9 @@ Material und Events zum Thema “forschendes Lernen”
 Veranstaltungen, Fortbildungen, Fachtagungen zum Thema forschendes Lernen bzw. Einbidung von
 aktueller (Fach-)Forschung in die Schule.
 
+### [Welt der Physik:](https://www.weltderphysik.de/)
+Viele gute Erklärtexte, teilweise Videos und Podcasts. Unterstütz von der DPG und dem Bundesministerium für Bildung und Forschung.
+
+
+### [Physik im Advent](https://www.physik-im-advent.de)
+Jährlich stattfindender Experimentierwettbewerb im Dezember.
