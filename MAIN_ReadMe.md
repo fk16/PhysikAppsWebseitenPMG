@@ -45,12 +45,16 @@ Stiftung für Innovation, Forschung und Technik Thüringen, STIFT
 Material und Events zum Thema “forschendes Lernen”
 
 
-### [Schule MIT Wisschenschaft:](https://jungforscher-thueringen.de/schule-mit-wissenschaft/)
-Veranstaltungen, Fortbildungen, Fachtagungen zum Thema forschendes Lernen bzw. Einbidung von
+### [Schule MIT Wissenschaft:](https://jungforscher-thueringen.de/schule-mit-wissenschaft/)
+Veranstaltungen, Fortbildungen, Fachtagungen zum Thema forschendes Lernen bzw. Einbindung von
 aktueller (Fach-)Forschung in die Schule.
 
+### [Mediathek von Schule MIT Wissenschaft](https://jungforscher-thueringen.de/schule-mit-wissenschaft/mediathek/)
+Schwer findbar, daher eigener Link. Viele Fachvorträge als Video verfügbar. 
+Nicht alle Vorträge haben PhysikBezug aber vielleicht finden sioch Vorträge, die einen Einstieg oder eine Vertiefung bieten?
+
 ### [Welt der Physik:](https://www.weltderphysik.de/)
-Viele gute Erklärtexte, teilweise Videos und Podcasts. Unterstütz von der DPG und dem Bundesministerium für Bildung und Forschung.
+Viele gute Erklärtexte, teilweise Videos und Podcasts von der DPG und dem Bundesministerium für Bildung und Forschung.
 
 
 ### [Physik im Advent](https://www.physik-im-advent.de)
